@@ -8,7 +8,7 @@
     margin:0 auto;
 }
 .full_area{
-	background:url(../images/header_body_img.jpg) no-repeat;
+	background:url(bg.jpg) no-repeat;
 	background-size:cover;
 	background-position:center;
 }
